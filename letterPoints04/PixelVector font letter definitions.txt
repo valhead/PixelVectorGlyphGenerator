@@ -1,12 +1,3 @@
-PixelVectorGlyphGenerator
-=========================
-
-A little Processing tool for creating the point and line definitions for each character of the generated PixelVector font for PixelPyros (https://github.com/sebleedelisle/PixelPyros)
-
-This tool lets you draw the letters in hot magenta on a 5x7 grid and outputs the line definitions to a text file for use as a generated font. The actual rendering of the letters happens in PixelPyros, but I think we should make a Processing version of the rendering function too :) 
-
-The current output for each letter if you're curious:
- 
 A
 line(0 , 6 , 0 , 1);
 line(0 , 1 , 2 , 0);
@@ -240,4 +231,9 @@ line(2 , 4 , 2 , 6);
 
 .
 line(2 , 5 , 2 , 6);
+
+
+
+
+
 
