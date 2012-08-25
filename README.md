@@ -3,7 +3,10 @@ PixelVectorGlyphGenerator
 
 A little Processing tool for creating the point and line definitions for each character of the generated PixelVector font for PixelPyros (https://github.com/sebleedelisle/PixelPyros)
 
-This tool lets you draw the letters in hot magenta on a 5x7 grid and outputs the line definitions to a text file for use as a generated font. The actual rendering of the letters happens in PixelPyros, but I think we should make a Processing version of the rendering function too :) 
+This tool lets you draw the letters in hot magenta on a 5x7 grid and outputs the line definitions to a text file for use as a generated font. The actual rendering of the letters happens in PixelPyros, but I think I should make a Processing version of the rendering function too :) 
+
+Currently requires the controlP5 GUI library http://www.sojamo.de/libraries/controlP5/ 
+
 
 The current output for each letter if you're curious:
  
